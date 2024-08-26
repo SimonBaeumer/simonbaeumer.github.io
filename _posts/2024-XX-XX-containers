@@ -1,0 +1,9 @@
+---
+layout: post
+title: All about containers
+---
+
+Blogs:
+ - https://cloudnativenow.com/topics/cloudnativeplatforms/what-next-for-the-open-container-initiative-oci/
+ - Image Spec: https://github.com/opencontainers/image-spec
+ - OWASP DevSecOps Guidelines: https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing
