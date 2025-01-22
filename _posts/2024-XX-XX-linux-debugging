@@ -13,7 +13,10 @@ netcat
 nmap
 sysctl, systemctl
 strace
+ltrace
 htop
 ps aux
 lsof
 inotify tool
+mounts
+perf
