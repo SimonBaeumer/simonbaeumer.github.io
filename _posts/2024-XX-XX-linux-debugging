@@ -1,0 +1,22 @@
+---
+layout: post
+title: Overveiw of CPU protection modes 
+---
+
+ldd
+tcpdump
+traceroute
+tracepath
+nslookup
+dig
+netcat
+nmap
+sysctl, systemctl
+strace
+ltrace
+htop
+ps aux
+lsof
+inotify tool
+mounts
+perf

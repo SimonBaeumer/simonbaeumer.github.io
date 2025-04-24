@@ -1,0 +1,7 @@
+---
+layout: post
+title: All about containers
+---
+
+ - Memory pyramid, CPU caches, RAM, swap
+ - Speed at the cost of size, size as the cost of speed
